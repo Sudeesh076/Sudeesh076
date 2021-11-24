@@ -11,7 +11,7 @@
 * EDA is done on this dataset to get some insights of features and their dependencies and importance for solving our problem
 * Analysing some useful statistics from data
 #### Structure of Repo-
-##### There is one folder named EDA which contains .ipynb notebook and its pdf form
+##### There is one folder named Exploratory-Data-Analysis-on-Haberman-Dataset which contains .ipynb notebook and its pdf form
 ##### links : 
 * Repository : https://github.com/Sudeesh076/Exploratory-Data-Analysis-on-Haberman-Dataset
 * ipynb : https://github.com/Sudeesh076/Exploratory-Data-Analysis-on-Haberman-Dataset/blob/main/Exploratory_Data_Analysis_on_Haberman_Dataset.ipynb
