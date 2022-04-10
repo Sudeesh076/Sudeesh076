@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Data Science, Deep Learning, and Machine Learning
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning projects
 - 📫 How to reach me sudeesh335@gmail.com
+- Linkedln - https://www.linkedin.com/in/sudeesh-reddy/
